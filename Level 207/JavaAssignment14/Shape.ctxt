@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Shape
+comment1.params=d
+comment1.target=double\ getAreaC(double)
+comment2.params=d
+comment2.target=double\ getAreaR(double)
+comment3.params=d
+comment3.target=double\ getPerimeterC(double)
+comment4.params=d
+comment4.target=double\ getPerimeterR(double)
+numComments=5

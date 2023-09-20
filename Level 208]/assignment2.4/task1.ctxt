@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=task1
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a
+comment2.target=double\ Rupee(double)
+comment3.params=a
+comment3.target=double\ Euro(double)
+comment4.params=a
+comment4.target=double\ Yen(double)
+comment5.params=a
+comment5.target=double\ Pound(double)
+comment6.params=a
+comment6.target=double\ ADollar(double)
+numComments=7

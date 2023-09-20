@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=print
+comment1.params=
+comment1.target=void\ day()
+comment2.params=
+comment2.target=void\ month()
+comment3.params=
+comment3.target=void\ year()
+comment4.params=
+comment4.target=void\ lunarCycleNumber()
+comment5.params=
+comment5.target=void\ lunarCycleName()
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Student5
+comment1.params=i\ n
+comment1.target=Student5(int,\ java.lang.String)
+comment2.params=i\ n\ a
+comment2.target=Student5(int,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ display()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
